@@ -3,6 +3,9 @@
 A simple HTML project that lists upcoming and past events using semantic structure.  
 Part of my portfolio to demonstrate clean HTML layout, use of `<header>`, `<nav>`, `<section>`, and `<article>`, and integration of images and links.
 
+## Live Demo
+[View Event Hub](https://mayormpofu.github.io/event-listing-page/)
+
 ## Features
 - Organized event listings (upcoming and past)
 - Semantic HTML structure for accessibility
